@@ -1,0 +1,16 @@
+pandoc: 3.1.11
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  competingRisk: competingRisk.html
+  customizingpopTime: customizingpopTime.html
+  plotabsRisk: plotabsRisk.html
+  plotsmoothHazard: plotsmoothHazard.html
+  popTime: popTime.html
+  smoothHazard: smoothHazard.html
+  time-varying-covariates: time-varying-covariates.html
+last_built: 2024-04-09T17:24Z
+urls:
+  reference: https://sahirbhatnagar.com/casebase/reference
+  article: https://sahirbhatnagar.com/casebase/articles
+
